@@ -1,4 +1,4 @@
-package org.example;
+package org.example.password;
 
 /**
  인터페이스 사용 => 테스트 하기 쉬움, 결합도 낮음

@@ -1,5 +1,6 @@
-package org.example;
+package org.example.password;
 
+import org.example.password.PasswordGenerator;
 import org.example.password.RandomPasswordGenerator;
 
 public class User {

@@ -1,7 +1,4 @@
-package org.example;
-
-import org.example.ArithmeticOperator;
-import org.example.calculator.*;
+package org.example.calculator;
 
 import java.util.List;
 
